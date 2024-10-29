@@ -9,6 +9,12 @@
 
     <!-- Usuarios -->
     <li class="nav-item">
+        <a class="nav-link" href="index.html">
+            <i class="fas fa-fw fa-box-open"></i>
+            <span>Inicio</span>
+        </a>
+    </li>
+    <li class="nav-item">
         <a class="nav-link" href="customers.php">
             <i class="fas fa-fw fa-user"></i>
             <span>Lista de Usuarios</span>
@@ -34,6 +40,7 @@
             <span>Crear Producto</span>
         </a>
     </li>
+
 
     <!-- Divider -->
     <hr class="sidebar-divider">
